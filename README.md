@@ -14,4 +14,23 @@ search for selenium and testng scripts or add
  <dependencies> section.
  </dependency>
   </dependencies>
+  
   copy three files into resourse
+  
+  index.html
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Website</title>
+    <link rel="stylesheet" href="style.css">
+ </head>
+<body>
+<header>
+    <img src="logo.png" alt="Logo">
+</header>
+<h1>Welcome to My Simple Website</h1>
+</body>
+</html>
+
